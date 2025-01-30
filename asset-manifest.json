@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sarika-T/list-project/static/css/main.17b66d16.css",
-    "main.js": "/Sarika-T/list-project/static/js/main.4dfd214c.js",
-    "static/js/488.9c92ff38.chunk.js": "/Sarika-T/list-project/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/Sarika-T/list-project/index.html",
-    "main.17b66d16.css.map": "/Sarika-T/list-project/static/css/main.17b66d16.css.map",
-    "main.4dfd214c.js.map": "/Sarika-T/list-project/static/js/main.4dfd214c.js.map",
-    "488.9c92ff38.chunk.js.map": "/Sarika-T/list-project/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/list-project/static/css/main.17b66d16.css",
+    "main.js": "/list-project/static/js/main.1f6b134a.js",
+    "static/js/488.9c92ff38.chunk.js": "/list-project/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/list-project/index.html",
+    "main.17b66d16.css.map": "/list-project/static/css/main.17b66d16.css.map",
+    "main.1f6b134a.js.map": "/list-project/static/js/main.1f6b134a.js.map",
+    "488.9c92ff38.chunk.js.map": "/list-project/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17b66d16.css",
-    "static/js/main.4dfd214c.js"
+    "static/js/main.1f6b134a.js"
   ]
 }
