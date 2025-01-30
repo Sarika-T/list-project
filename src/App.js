@@ -1,17 +1,17 @@
 import './App.css';
 import React from 'react';
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import MainPage from './components/MainPage/Mainpage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
     <div className='App'>
       <Routes>
         <Route path= "/" element = {<MainPage />} />
       </Routes>
     </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 export default App;
